@@ -1,5 +1,7 @@
 # Fake SFTP Server Rule
 
+Added SSH key support by natrem
+
 [![Build Status](https://travis-ci.org/stefanbirkner/fake-sftp-server-rule.svg?branch=master)](https://travis-ci.org/stefanbirkner/fake-sftp-server-rule)
 
 Fake SFTP Server Rule is a JUnit rule that runs an in-memory SFTP server while
